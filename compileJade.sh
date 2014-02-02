@@ -1,1 +1,1 @@
-jade {home,header,mainContent,footer}.jade -w
+jade {index,_header,_mainContent,_footer}.jade -w
