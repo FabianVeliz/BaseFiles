@@ -1,1 +1,1 @@
-stylus -c -w stylesheet/all.styl -u nib
+stylus -w fileFont/stylus/all.styl -o build/stylesheet -u nib
